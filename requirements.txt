@@ -1,0 +1,10 @@
+# Prefer the existing ~/Projects/lerobot/.venv on the Air.
+# Extra deps only if that venv is missing pieces:
+opencv-python>=4.8
+numpy>=1.24
+pyserial>=3.5
+PyYAML>=6.0
+pandas>=2.0
+pyarrow>=14.0
+# CAD (Mac Mini .venv-cad also fine):
+# build123d
