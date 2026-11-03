@@ -1,6 +1,6 @@
 # Cordia Labs — Teleoperation & Synced Recording Stack
 
-Synchronized dual SO-101 teleoperation, cameras, and 200 Hz tactile data logging in Hugging Face LeRobot format for a $1,000 dual-arm robot that folds laundry.
+Synchronized dual SO-101 teleoperation, cameras, and 200 Hz tactile data logging in Hugging Face LeRobot format for a $1,000 robot that folds laundry.
 
 ```
 Upstream:   Hugging Face LeRobot (Apache-2.0)
